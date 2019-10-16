@@ -5,10 +5,9 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     public float runSpeed, jumpForce;
-    public Rigidbody2D rigidbody;
+    public Rigidbody2D rb;
     public bool isGrounded;
     public LayerMask Foreground;
-    public SpriteRenderer playerSprite;
     private float vx, vy;
     public bool facingRight;
 
@@ -21,21 +20,14 @@ public class PlayerMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 0.5f, transform.position.y - 0.5f), new Vector2(transform.position.x + 0.5f, transform.position.y + 0.5f), Foreground);
+        isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 1.0f, transform.position.y - 1.0f), new Vector2(transform.position.x + 1.0f, transform.position.y + 1.0f), Foreground);
 
         vx = Input.GetAxisRaw("Horizontal");
-        vy = rigidbody.velocity.y;
+        vy = rb.velocity.y;
     }
 
     void FixedUpdate()
     {
-        /*float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
-
-        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
-
-        rigidbody.AddForce(movement * runSpeed);*/
-
         Vector3 localScale = transform.localScale;
 
         if (vx > 0)
@@ -56,16 +48,16 @@ public class PlayerMove : MonoBehaviour
 
         if (Input.GetKey(KeyCode.D))
         {
-            rigidbody.velocity = new Vector2(runSpeed, rigidbody.velocity.y);
+            rb.velocity = new Vector2(runSpeed, rb.velocity.y);
         }
         else if (Input.GetKey(KeyCode.A))
         {
-            rigidbody.velocity = new Vector2(runSpeed * -1, rigidbody.velocity.y);
+            rb.velocity = new Vector2(runSpeed * -1, rb.velocity.y);
         }
 
         if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
-            rigidbody.velocity = new Vector2(rigidbody.velocity.x, jumpForce);
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
     }
 }
