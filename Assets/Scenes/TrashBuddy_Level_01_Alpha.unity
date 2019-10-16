@@ -613,7 +613,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &370301120
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4126,7 +4126,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   distance: 2
+  sideDistance: 10
+  chaseSpeedMod: 3
   groundDetection: {fileID: 748822996}
+  playerRef: {fileID: 0}
 --- !u!50 &1668648547
 Rigidbody2D:
   serializedVersion: 4
@@ -4469,7 +4472,7 @@ GameObject:
   - component: {fileID: 1742600112}
   m_Layer: 0
   m_Name: Peter
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
