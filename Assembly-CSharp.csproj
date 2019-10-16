@@ -56,11 +56,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Scripts\Collison Test.cs" />
      <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
+     <Compile Include="Assets\Scripts\ScoreKeeper.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>G:/Users/Justine/Documents/UF/GameDev/TrashBuddy/TrashBuddy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
