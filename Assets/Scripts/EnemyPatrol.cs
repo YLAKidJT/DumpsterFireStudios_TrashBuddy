@@ -5,9 +5,10 @@ using UnityEngine;
 public class EnemyPatrol : MonoBehaviour
 {
     private float speed;
-    public float distance, patrolSpeed, chaseSpeed;
+    public float distance, patrolSpeed, chaseSpeed, recycleTime;
     private bool movingRight = true;
     public Transform groundDetection;
+    public BoxCollider2D triggerCol;
 
     // Start is called before the first frame update
     void Start()
@@ -51,6 +52,13 @@ public class EnemyPatrol : MonoBehaviour
                 movingRight = true;
             }
         }
+
+        if (col.gameObject.tag == "Projectile")
+        {
+            speed = 0;
+            triggerCol.enabled = false;
+            StartCoroutine(RecycleDelay());
+        }
     }
 
     void OnTriggerEnter2D(Collider2D col)
@@ -63,5 +71,12 @@ public class EnemyPatrol : MonoBehaviour
     {
         if (col.gameObject.tag == "Player")
             speed = patrolSpeed;
+    }
+
+    IEnumerator RecycleDelay()
+    {
+        yield return new WaitForSeconds(recycleTime);
+        speed = patrolSpeed;
+        triggerCol.enabled = true;
     }
 }

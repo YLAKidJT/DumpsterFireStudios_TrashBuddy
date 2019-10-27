@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1286524588589949681}
   - component: {fileID: 4982335272229372654}
   - component: {fileID: 1226579717881279802}
+  - component: {fileID: 6600283218333075251}
   m_Layer: 14
   m_Name: BlueNana
   m_TagString: Projectile
@@ -129,3 +130,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &6600283218333075251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3197679003652636918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096bcfde5d6410a45bc32a71580cd5a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
