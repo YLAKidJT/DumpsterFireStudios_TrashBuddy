@@ -3538,6 +3538,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1120094835 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1237945387789418186, guid: eac8090787460334cb34d3f733c71fd5,
+    type: 3}
+  m_PrefabInstance: {fileID: 1237945387695183135}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1120094839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1120094835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d91368d53038d4ba08cafec912165b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  degreesPerSecond: 0
+  amplitude: 0.5
+  frequency: 1
 --- !u!1 &1147919881
 GameObject:
   m_ObjectHideFlags: 0
@@ -3782,8 +3803,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1dad66dc220c5a44812e103d4caaedc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
-  player: {fileID: 0}
+  scoreText: {fileID: 1045511563}
+  player: {fileID: 1742600106}
 --- !u!4 &1154938033
 Transform:
   m_ObjectHideFlags: 0
