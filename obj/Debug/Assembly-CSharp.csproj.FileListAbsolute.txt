@@ -259,3 +259,5 @@ G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\Temp\bin\Debug\Unity
 G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\obj\Debug\Assembly-CSharp.dll
 G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\jtjus\Documents\UF\GameDesign\TBuddy\DumpsterFireStudios_TrashBuddy\obj\Debug\Assembly-CSharp.dll
+C:\Users\jtjus\Documents\UF\GameDesign\TBuddy\DumpsterFireStudios_TrashBuddy\obj\Debug\Assembly-CSharp.pdb
