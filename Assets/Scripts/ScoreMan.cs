@@ -19,6 +19,6 @@ public class ScoreMan : MonoBehaviour
     void Update()
     {
         score = player.gameObject.GetComponent<ScoreKeeper>().score;
-        scoreText.text = "Score: " + score;
+        scoreText.text = "Garbage: " + score;
     }
 }
