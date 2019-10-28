@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Collectible
   - Enemy
+  - Projectile
+  - patLimit
   layers:
   - Default
   - TransparentFX
@@ -20,8 +22,8 @@ TagManager:
   - Collectibles
   - Foreground
   - Background
-  - 
-  - 
+  - Patrol Limits
+  - Projectiles
   - 
   - 
   - 
