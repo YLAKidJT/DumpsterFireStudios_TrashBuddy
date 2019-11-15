@@ -7,6 +7,7 @@ public class followCamera : MonoBehaviour
 public float interpVelocity;
 public float minDistance;
 public float followDistance;
+    public float shiftSpeed;
 public GameObject target;
 public Vector3 offset;
     public Vector3 targetOffset;
@@ -29,7 +30,7 @@ void Update()
             targetOffset = new Vector3(-5, 0, -80);
         }
 
-        offset = Vector3.Lerp(offset, targetOffset, Time.deltaTime*4);
+        offset = Vector3.Lerp(offset, targetOffset, Time.deltaTime*shiftSpeed);
 
         transform.position = target.transform.position + offset;
 
