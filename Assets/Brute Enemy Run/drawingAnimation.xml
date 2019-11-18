@@ -1,0 +1,5 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="Recycle_Gang_Member_02_Top">
+  <drawing node="Drawing" name="1-Drawing" drwId="1"/>
+ </drawingAnimation>
+</drawingAnimations>

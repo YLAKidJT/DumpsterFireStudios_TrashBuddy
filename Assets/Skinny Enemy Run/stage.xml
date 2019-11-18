@@ -1,0 +1,5 @@
+<stages>
+ <stage name="Recycle_Gang_Member_01_Recycle_Gang_Member_01">
+  <play drawingAnimation="Recycle_Gang_Member_01_Top" name="Top" skeleton="Top" animation="Recycle_Gang_Member_01_Top"/>
+ </stage>
+</stages>
