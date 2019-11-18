@@ -20,8 +20,6 @@ public class PlayerMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 1.2f, transform.position.y - 1.2f), new Vector2(transform.position.x + 1.2f, transform.position.y + 1.2f), Foreground);
-
         vx = Input.GetAxisRaw("Horizontal");
         vy = rb.velocity.y;
     }
@@ -59,5 +57,7 @@ public class PlayerMove : MonoBehaviour
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
+
+        isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 1.2f, transform.position.y - 1.2f), new Vector2(transform.position.x + 1.2f, transform.position.y + 1.2f), Foreground);
     }
 }
