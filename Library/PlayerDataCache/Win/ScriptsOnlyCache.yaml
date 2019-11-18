@@ -1,9 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - AnimateScript
     - ButtonEvent
     - ButtonSelect
-    - CameraController
     - CollectableFloat
     - EnemyPatrol
     - PlayerHealth
@@ -12,15 +12,21 @@ ScriptsOnlyBuild:
     - Projectile
     - ScoreKeeper
     - ScoreMan
+    - followCamera
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -52,17 +58,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9732}
     - Class: 114
-      Script: {instanceID: 9834}
+      Script: {instanceID: 9836}
     - Class: 114
-      Script: {instanceID: 9874}
+      Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 10280}
+      Script: {instanceID: 10282}
     - Class: 114
-      Script: {instanceID: 10650}
+      Script: {instanceID: 10654}
     - Class: 114
-      Script: {instanceID: 11128}
+      Script: {instanceID: 11132}
     - Class: 114
-      Script: {instanceID: 11502}
+      Script: {instanceID: 11506}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -90,6 +96,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 28
       Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
     - Class: 50
@@ -98,43 +106,57 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 62
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 9670}
     - Class: 114
-      Script: {instanceID: 9834}
+      Script: {instanceID: 9784}
     - Class: 114
-      Script: {instanceID: 10004}
+      Script: {instanceID: 9836}
     - Class: 114
-      Script: {instanceID: 10102}
+      Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 10200}
+      Script: {instanceID: 10006}
     - Class: 114
-      Script: {instanceID: 10280}
+      Script: {instanceID: 10104}
     - Class: 114
-      Script: {instanceID: 10604}
+      Script: {instanceID: 10202}
     - Class: 114
-      Script: {instanceID: 10616}
+      Script: {instanceID: 10282}
     - Class: 114
-      Script: {instanceID: 11076}
+      Script: {instanceID: 10316}
     - Class: 114
-      Script: {instanceID: 11128}
+      Script: {instanceID: 10608}
     - Class: 114
-      Script: {instanceID: 11254}
+      Script: {instanceID: 11080}
     - Class: 114
-      Script: {instanceID: 11446}
+      Script: {instanceID: 11132}
     - Class: 114
-      Script: {instanceID: 11502}
+      Script: {instanceID: 11258}
+    - Class: 114
+      Script: {instanceID: 11450}
     - Class: 114
       Script: {instanceID: 11506}
+    - Class: 114
+      Script: {instanceID: 11510}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 212
       Script: {instanceID: 0}
@@ -166,17 +188,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9670}
     - Class: 114
-      Script: {instanceID: 9874}
+      Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9930}
+      Script: {instanceID: 9932}
     - Class: 114
-      Script: {instanceID: 10280}
+      Script: {instanceID: 10282}
     - Class: 114
-      Script: {instanceID: 10650}
+      Script: {instanceID: 10654}
     - Class: 114
-      Script: {instanceID: 11128}
+      Script: {instanceID: 11132}
     - Class: 114
-      Script: {instanceID: 11502}
+      Script: {instanceID: 11506}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -228,6 +250,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 30f3213a6e218a461fa00e428f22d3eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AnimateScript
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -396,6 +424,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a89bbf781e3a0283cc47b52fae13b646
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: followCamera
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -683,4 +717,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/TrashBuddy_Level_00_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_Select_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_01_Alpha.unity
-  playerPath: D:/yodac/Documents/GitHub/DumpsterFireStudios_TrashBuddy/Builds/Build_03/DumpsterFireStudios_TrashBuddy.exe
+  playerPath: D:/yodac/Documents/GitHub/DumpsterFireStudios_TrashBuddy/Builds/Build_04/DumpsterFireStudios_TrashBuddy.exe
