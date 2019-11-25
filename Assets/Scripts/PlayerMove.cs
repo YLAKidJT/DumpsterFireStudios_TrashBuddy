@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    public float runSpeed, jumpForce;
+    public float runSpeed, jumpForce, jumpDelay;
     public Rigidbody2D rb;
     public bool isGrounded;
     public LayerMask Foreground;
@@ -55,9 +55,10 @@ public class PlayerMove : MonoBehaviour
 
         if (Input.GetKey(KeyCode.Space) && isGrounded)
         {
+            Debug.Log("Jump");
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
 
-        isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 1.2f, transform.position.y - 1.2f), new Vector2(transform.position.x + 1.2f, transform.position.y + 1.2f), Foreground);
+        isGrounded = Physics2D.OverlapArea(new Vector2(transform.position.x - 0.5f, transform.position.y - 1.2f), new Vector2(transform.position.x + 0.5f, transform.position.y + 1.2f), Foreground);
     }
 }
