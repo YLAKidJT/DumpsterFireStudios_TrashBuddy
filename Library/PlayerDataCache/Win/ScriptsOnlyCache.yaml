@@ -27,6 +27,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -105,6 +106,8 @@ ScriptsOnlyBuild:
     - Class: 61
       Script: {instanceID: 0}
     - Class: 62
+      Script: {instanceID: 0}
+    - Class: 70
       Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
@@ -717,4 +720,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/TrashBuddy_Level_00_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_Select_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_01_Alpha.unity
-  playerPath: D:/yodac/Documents/GitHub/DumpsterFireStudios_TrashBuddy/Builds/Build_04/DumpsterFireStudios_TrashBuddy.exe
+  playerPath: D:/yodac/Documents/GitHub/DumpsterFireStudios_TrashBuddy/Builds/Build_05/DumpsterFireStudios_TrashBuddy.exe
