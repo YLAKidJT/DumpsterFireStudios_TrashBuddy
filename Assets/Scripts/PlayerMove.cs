@@ -53,7 +53,7 @@ public class PlayerMove : MonoBehaviour
             rb.velocity = new Vector2(runSpeed * -1, rb.velocity.y);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if (Input.GetKey(KeyCode.Space) && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         }
