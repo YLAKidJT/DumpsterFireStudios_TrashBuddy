@@ -261,3 +261,4 @@ G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\obj\Debug\Assembly-C
 G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\obj\Debug\Assembly-CSharp.pdb
 C:\Users\jtjus\Documents\UF\GameDesign\TBuddy\DumpsterFireStudios_TrashBuddy\obj\Debug\Assembly-CSharp.dll
 C:\Users\jtjus\Documents\UF\GameDesign\TBuddy\DumpsterFireStudios_TrashBuddy\obj\Debug\Assembly-CSharp.pdb
+G:\Users\Justine\Documents\UF\GameDev\TrashBuddy\TrashBuddy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
