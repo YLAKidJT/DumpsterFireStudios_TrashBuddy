@@ -16,9 +16,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 43
     width: 1920
     height: 997
+=======
+    y: 42
+    width: 1280
+    height: 638
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
@@ -53,6 +59,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 947
   m_MinSize: {x: 683, y: 494}
@@ -67,6 +74,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 70
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    width: 1280
+    height: 588
+  m_MinSize: {x: 683, y: 494}
+  m_MaxSize: {x: 14004, y: 14044}
+  vertical: 0
+  controlID: 188
+>>>>>>> parent of 4038400... Level Complete Text Added
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -83,6 +98,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1531
     y: 0
     width: 389
@@ -97,6 +113,14 @@ MonoBehaviour:
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    x: 1003
+    y: 0
+    width: 277
+    height: 588
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -120,6 +144,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 379
     height: 573
   m_MinSize: {x: 202, y: 222}
@@ -130,6 +155,12 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    width: 248
+    height: 316
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -152,6 +183,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 573
     width: 1531
     height: 374
@@ -160,6 +192,11 @@ MonoBehaviour:
     width: 1003
     height: 272
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    y: 316
+    width: 1003
+    height: 272
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_MinSize: {x: 232, y: 272}
   m_MaxSize: {x: 10002, y: 10022}
   m_ActualView: {fileID: 13}
@@ -189,12 +226,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 997
 =======
     width: 1280
     height: 638
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    width: 1280
+    height: 638
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -215,6 +257,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
 =======
     width: 1280
@@ -223,6 +266,13 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+=======
+    width: 1280
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: Default
+>>>>>>> parent of 4038400... Level Complete Text Added
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -240,12 +290,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 977
     width: 1920
 =======
     y: 618
     width: 1280
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    y: 618
+    width: 1280
+>>>>>>> parent of 4038400... Level Complete Text Added
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -269,6 +324,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1531
     height: 947
   m_MinSize: {x: 406, y: 494}
@@ -283,6 +339,14 @@ MonoBehaviour:
   vertical: 1
   controlID: 71
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    width: 1003
+    height: 588
+  m_MinSize: {x: 406, y: 494}
+  m_MaxSize: {x: 10002, y: 14044}
+  vertical: 1
+  controlID: 189
+>>>>>>> parent of 4038400... Level Complete Text Added
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -303,6 +367,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1531
     height: 573
   m_MinSize: {x: 406, y: 222}
@@ -317,6 +382,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 72
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    width: 1003
+    height: 316
+  m_MinSize: {x: 406, y: 222}
+  m_MaxSize: {x: 8006, y: 4022}
+  vertical: 0
+  controlID: 190
+>>>>>>> parent of 4038400... Level Complete Text Added
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -333,6 +406,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 379
     y: 0
     width: 1152
@@ -343,6 +417,12 @@ MonoBehaviour:
     width: 755
     height: 316
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    x: 248
+    y: 0
+    width: 755
+    height: 316
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 16}
@@ -401,6 +481,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 646
     width: 1531
     height: 355
@@ -409,6 +490,11 @@ MonoBehaviour:
     width: 1003
     height: 253
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    y: 388
+    width: 1003
+    height: 253
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -423,6 +509,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - Assets/Scenes
   m_ViewMode: 1
@@ -454,6 +541,22 @@ MonoBehaviour:
     m_LastClickedID: 11862
     m_ExpandedIDs: 000000007c2d000000ca9a3b
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    - Assets/Static_Art
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Static_Art
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\jtjus\Documents\UF\GameDesign\TBuddy\DumpsterFireStudios_TrashBuddy
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 23}
+    m_SelectedIDs: e23e0000
+    m_LastClickedID: 16098
+    m_ExpandedIDs: 000000005c3b000000ca9a3b
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -482,10 +585,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000003a3a0000
 =======
     m_ExpandedIDs: 000000007c2d0000
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    m_ExpandedIDs: 000000005c3b000000ca9a3b
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -513,10 +620,14 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
 =======
     m_HadKeyboardFocusLastEvent: 1
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -571,16 +682,22 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1531
     y: 73
     width: 387
     height: 928
 =======
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
     x: 1003.2
     y: 72
     width: 275
     height: 569
+<<<<<<< HEAD
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -616,6 +733,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     y: 73
     width: 379
@@ -824,6 +942,166 @@ MonoBehaviour:
     height: 297
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
   m_ViewDataDictionary: {fileID: 0}
+=======
+    y: 72
+    width: 248
+    height: 297
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 200}
+      m_SelectedIDs: eaafffff
+      m_LastClickedID: -20502
+      m_ExpandedIDs: 76b1fffffadafffffcdaffffa0dcffffb4defffff4edffff2ef0ffff58f3ffffcaf7ffffa65c0000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 4}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 2a85a48ab18992944810f90ead99023e
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 248
+    y: 72
+    width: 753
+    height: 297
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: 177c5e511a75ea549ac518774c21112b
+  m_Gizmos: 1
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 57.923653, y: -2.545175, z: -135.73497}
+    speed: 2
+    m_Value: {x: 57.923653, y: -2.545175, z: -135.73497}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 13.255947
+    speed: 2
+    m_Value: 13.880573
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfView: 90
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.2204167, y: 0.44526505, z: -0.11407898, w: -0.8603154}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 248
+    y: 72
+    width: 753
+    height: 297
+  m_ViewDataDictionary: {fileID: 0}
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -836,16 +1114,22 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -575
     m_HBaseRangeMax: 575
     m_VBaseRangeMin: -268.5
     m_VBaseRangeMax: 268.5
 =======
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_HBaseRangeMin: -376.5
     m_HBaseRangeMax: 376.5
     m_VBaseRangeMin: -140
     m_VBaseRangeMax: 140
+<<<<<<< HEAD
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -864,16 +1148,22 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1150
       height: 537
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 575, y: 268.5}
 =======
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
       width: 753
       height: 280
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 376.5, y: 140}
+<<<<<<< HEAD
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -881,31 +1171,43 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -575
       y: -268.5
       width: 1150
       height: 537
 =======
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
       x: -376.5
       y: -140
       width: 753
       height: 280
+<<<<<<< HEAD
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1150, y: 554}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
 =======
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_LastWindowPixelSize: {x: 1882.5, y: 742.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
+<<<<<<< HEAD
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_XRRenderMode: 0
 --- !u!114 &18
 MonoBehaviour:
@@ -930,6 +1232,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 646
     width: 1531
     height: 355
@@ -938,4 +1241,9 @@ MonoBehaviour:
     width: 1003
     height: 253
 >>>>>>> parent of e1ac6c0... Merge branch 'UIWorkspace' into Development
+=======
+    y: 388
+    width: 1003
+    height: 253
+>>>>>>> parent of 4038400... Level Complete Text Added
   m_ViewDataDictionary: {fileID: 0}
