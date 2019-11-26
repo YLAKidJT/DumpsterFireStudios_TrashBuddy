@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public float lives;
+    public int lives;
     public GameObject playerSpawn;
 
     // Start is called before the first frame update
@@ -33,7 +33,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (col.gameObject.tag=="playerDetect")
         {
-            lives -= 0.5f;
+            lives -= 1;
             gameObject.transform.position = playerSpawn.transform.position;
             gameObject.transform.rotation = playerSpawn.transform.rotation;
         }

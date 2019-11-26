@@ -66,27 +66,27 @@ public class EnemyPatrol : MonoBehaviour
 
         if (col.gameObject.name == "Banana(Clone)")
         {
-            playerDet.SetActive(false);
-            chaseDet.SetActive(false);
             speed = 0;
             recycleTime = 4;
+            playerDet.SetActive(false);
+            chaseDet.SetActive(false);
             Debug.Log("BananaHit");
             StartCoroutine(RecycleDelay());
         }
         else if (col.gameObject.name == "WineBottle(Clone)")
         {
-            playerDet.SetActive(false);
-            chaseDet.SetActive(false);
             speed = 0;
             recycleTime = 8;
+            playerDet.SetActive(false);
+            chaseDet.SetActive(false);
             StartCoroutine(RecycleDelay());
         }
         else if (col.gameObject.name == "Laundry(Clone)")
         {
-            playerDet.SetActive(false);
-            chaseDet.SetActive(false);
             speed = 0;
             recycleTime = 15;
+            playerDet.SetActive(false);
+            chaseDet.SetActive(false);
             StartCoroutine(RecycleDelay());
         }
     }

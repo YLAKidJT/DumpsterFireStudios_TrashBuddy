@@ -5,9 +5,9 @@ using UnityEngine.UI;
 
 public class ScoreMan : MonoBehaviour
 {
-    public Text scoreText, livesText;
+    public Text scoreText;
     public GameObject player;
-    float score, lives;
+    int score;
 
     // Start is called before the first frame update
     void Start()
@@ -20,7 +20,5 @@ public class ScoreMan : MonoBehaviour
     {
         score = player.gameObject.GetComponent<ScoreKeeper>().score;
         scoreText.text = "Garbage: " + score;
-        lives = player.gameObject.GetComponent<PlayerHealth>().lives;
-        livesText.text = "Lives: " + lives;
     }
 }
