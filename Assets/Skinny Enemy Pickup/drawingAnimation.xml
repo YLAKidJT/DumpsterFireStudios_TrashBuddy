@@ -1,0 +1,5 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="Brute_Pick_Up_Top">
+  <drawing node="Drawing" name="1-Drawing" drwId="1"/>
+ </drawingAnimation>
+</drawingAnimations>

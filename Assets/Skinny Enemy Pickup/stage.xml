@@ -1,0 +1,5 @@
+<stages>
+ <stage name="Brute_Pick_Up_Brute_Pick_Up">
+  <play drawingAnimation="Brute_Pick_Up_Top" name="Top" skeleton="Top" animation="Brute_Pick_Up_Top"/>
+ </stage>
+</stages>
