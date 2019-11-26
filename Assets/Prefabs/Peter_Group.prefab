@@ -163,7 +163,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runSpeed: 5
-  jumpForce: 22
+  jumpForce: 18
+  jumpDelay: 0
   rb: {fileID: 7041655880949942649}
   isGrounded: 0
   Foreground:
@@ -293,6 +294,7 @@ MonoBehaviour:
   maxProjNum: 10
   curProjNum: 0
   timeDelay: 5
+  onCool: 0
 --- !u!1 &7327290205627791421
 GameObject:
   m_ObjectHideFlags: 0

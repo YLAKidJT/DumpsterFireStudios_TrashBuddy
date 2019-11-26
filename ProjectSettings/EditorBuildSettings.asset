@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TrashBuddy_Level_01_Alpha.unity
     guid: d0fb202272699ff458e8e7a23bd6926c
+  - enabled: 1
+    path: Assets/Scenes/TrashBuddy_Level_02_Alpha.unity
+    guid: e574fcdc1b056284c8db96fc322a0a8b
   m_configObjects: {}
