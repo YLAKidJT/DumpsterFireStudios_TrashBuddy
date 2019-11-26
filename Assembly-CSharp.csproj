@@ -70,7 +70,27 @@
      <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\ScoreKeeper.cs" />
      <Compile Include="Assets\Scripts\ScoreMan.cs" />
+     <None Include="Assets\Skinny Enemy Pickup\stage.xml" />
+     <None Include="Assets\Skinny Enemy Run\animation.xml" />
+     <None Include="Assets\Skinny Enemy Pickup\spriteSheets.xml" />
+     <None Include="Assets\Skinny Enemy Pickup\skeleton.xml" />
+     <None Include="Assets\Skinny Enemy Pickup\drawingAnimation.xml" />
+     <None Include="Assets\Brute Enemy Run\stage.xml" />
+     <None Include="Assets\Brute Enemy Run\skeleton.xml" />
+     <None Include="Assets\Brute Enemy Pickup\skeleton.xml" />
+     <None Include="Assets\Skinny Enemy Run\stage.xml" />
+     <None Include="Assets\Brute Enemy Pickup\stage.xml" />
+     <None Include="Assets\Brute Enemy Pickup\spriteSheets.xml" />
+     <None Include="Assets\Brute Enemy Run\spriteSheets.xml" />
+     <None Include="Assets\Skinny Enemy Pickup\animation.xml" />
+     <None Include="Assets\Skinny Enemy Run\skeleton.xml" />
      <None Include="Assets\Fonts\FontCredit.txt" />
+     <None Include="Assets\Brute Enemy Run\animation.xml" />
+     <None Include="Assets\Skinny Enemy Run\spriteSheets.xml" />
+     <None Include="Assets\Skinny Enemy Run\drawingAnimation.xml" />
+     <None Include="Assets\Brute Enemy Run\drawingAnimation.xml" />
+     <None Include="Assets\Brute Enemy Pickup\animation.xml" />
+     <None Include="Assets\Brute Enemy Pickup\drawingAnimation.xml" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>G:/Users/Justine/Documents/UF/GameDev/TrashBuddy/TrashBuddy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
