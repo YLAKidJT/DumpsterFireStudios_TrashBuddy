@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class EnemyPatrol : MonoBehaviour
 {
-    private float speed;
+    public float speed;
     public float distance, patrolSpeed, chaseSpeed, recycleTime;
     private bool movingRight = true;
     public Transform groundDetection;
-    public BoxCollider2D triggerCol;
+    public BoxCollider2D enemyCol;
+    public GameObject playerDet, chaseDet;
 
     // Start is called before the first frame update
     void Start()
@@ -53,10 +54,39 @@ public class EnemyPatrol : MonoBehaviour
             }
         }
 
-        if (col.gameObject.tag == "Projectile")
+        /*if (col.gameObject.tag == "Projectile")
         {
             speed = 0;
-            triggerCol.enabled = false;
+            //triggerCol.enabled = false;
+
+            playerDet.SetActive(false);
+
+            StartCoroutine(RecycleDelay());
+        }*/
+
+        if (col.gameObject.name == "Banana(Clone)")
+        {
+            playerDet.SetActive(false);
+            chaseDet.SetActive(false);
+            speed = 0;
+            recycleTime = 4;
+            Debug.Log("BananaHit");
+            StartCoroutine(RecycleDelay());
+        }
+        else if (col.gameObject.name == "WineBottle(Clone)")
+        {
+            playerDet.SetActive(false);
+            chaseDet.SetActive(false);
+            speed = 0;
+            recycleTime = 8;
+            StartCoroutine(RecycleDelay());
+        }
+        else if (col.gameObject.name == "Laundry(Clone)")
+        {
+            playerDet.SetActive(false);
+            chaseDet.SetActive(false);
+            speed = 0;
+            recycleTime = 15;
             StartCoroutine(RecycleDelay());
         }
     }
@@ -64,7 +94,11 @@ public class EnemyPatrol : MonoBehaviour
     void OnTriggerEnter2D(Collider2D col)
     {
         if (col.gameObject.tag == "Player")
+        {
             speed = chaseSpeed;
+            Debug.Log("ChaseStart");
+        }
+            //speed = chaseSpeed;
     }
 
     void OnTriggerExit2D(Collider2D col)
@@ -77,6 +111,9 @@ public class EnemyPatrol : MonoBehaviour
     {
         yield return new WaitForSeconds(recycleTime);
         speed = patrolSpeed;
-        triggerCol.enabled = true;
+        //triggerCol.enabled = true;
+
+        playerDet.SetActive(true);
+        chaseDet.SetActive(true);
     }
 }

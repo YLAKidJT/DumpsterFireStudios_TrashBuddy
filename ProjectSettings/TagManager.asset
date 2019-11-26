@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Projectile
   - patLimit
+  - playerDetect
   layers:
   - Default
   - TransparentFX
