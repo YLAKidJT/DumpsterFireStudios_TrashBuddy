@@ -65,12 +65,16 @@
      <Compile Include="Assets\Scripts\CollectableFloat.cs" />
      <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
      <Compile Include="Assets\Scripts\followCamera.cs" />
+     <Compile Include="Assets\Scripts\GameQuit.cs" />
+     <Compile Include="Assets\Scripts\GOScreen.cs" />
+     <Compile Include="Assets\Scripts\lvlcomp.cs" />
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Scripts\ProjBurn.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\ScoreKeeper.cs" />
      <Compile Include="Assets\Scripts\ScoreMan.cs" />
+     <Compile Include="Assets\Scripts\SpriteAlpha.cs" />
      <None Include="Assets\Fonts\FontCredit.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>G:/Users/Justine/Documents/UF/GameDev/TrashBuddy/TrashBuddy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

@@ -4,15 +4,20 @@ ScriptsOnlyBuild:
     - AnimateScript
     - ButtonEvent
     - ButtonSelect
+    - CDBar
     - CollectableFloat
     - EnemyPatrol
+    - GOScreen
+    - GameQuit
     - PlayerHealth
     - PlayerMove
     - ProjBurn
     - Projectile
     - ScoreKeeper
     - ScoreMan
+    - SpriteAlpha
     - followCamera
+    - lvlcomp
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -22,8 +27,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -37,6 +44,55 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
+    Assets/Scenes/TrashBuddy_GameOver.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9678}
+    - Class: 114
+      Script: {instanceID: 9844}
+    - Class: 114
+      Script: {instanceID: 9884}
+    - Class: 114
+      Script: {instanceID: 10292}
+    - Class: 114
+      Script: {instanceID: 10666}
+    - Class: 114
+      Script: {instanceID: 11144}
+    - Class: 114
+      Script: {instanceID: 11518}
+    - Class: 114
+      Script: {instanceID: 43662}
+    - Class: 114
+      Script: {instanceID: 66166}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/TrashBuddy_Level_00_Alpha.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -55,21 +111,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9670}
+      Script: {instanceID: 9678}
     - Class: 114
-      Script: {instanceID: 9732}
+      Script: {instanceID: 9740}
     - Class: 114
-      Script: {instanceID: 9836}
+      Script: {instanceID: 9844}
     - Class: 114
-      Script: {instanceID: 9876}
+      Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10292}
     - Class: 114
-      Script: {instanceID: 10654}
+      Script: {instanceID: 10666}
     - Class: 114
-      Script: {instanceID: 11132}
+      Script: {instanceID: 11144}
     - Class: 114
-      Script: {instanceID: 11506}
+      Script: {instanceID: 11518}
+    - Class: 114
+      Script: {instanceID: 66166}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -120,37 +178,140 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9670}
+      Script: {instanceID: 9678}
     - Class: 114
-      Script: {instanceID: 9784}
+      Script: {instanceID: 9792}
     - Class: 114
-      Script: {instanceID: 9836}
+      Script: {instanceID: 9844}
     - Class: 114
-      Script: {instanceID: 9876}
+      Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 10006}
+      Script: {instanceID: 10014}
     - Class: 114
-      Script: {instanceID: 10104}
+      Script: {instanceID: 10114}
     - Class: 114
-      Script: {instanceID: 10202}
+      Script: {instanceID: 10212}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10292}
     - Class: 114
-      Script: {instanceID: 10316}
+      Script: {instanceID: 10326}
     - Class: 114
-      Script: {instanceID: 10608}
+      Script: {instanceID: 10498}
     - Class: 114
-      Script: {instanceID: 11080}
+      Script: {instanceID: 10620}
     - Class: 114
-      Script: {instanceID: 11132}
+      Script: {instanceID: 10666}
     - Class: 114
-      Script: {instanceID: 11258}
+      Script: {instanceID: 11092}
     - Class: 114
-      Script: {instanceID: 11450}
+      Script: {instanceID: 11144}
     - Class: 114
-      Script: {instanceID: 11506}
+      Script: {instanceID: 11270}
     - Class: 114
-      Script: {instanceID: 11510}
+      Script: {instanceID: 11462}
+    - Class: 114
+      Script: {instanceID: 11518}
+    - Class: 114
+      Script: {instanceID: 11522}
+    - Class: 114
+      Script: {instanceID: 37108}
+    - Class: 114
+      Script: {instanceID: 66166}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/TrashBuddy_Level_02_Alpha.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 62
+      Script: {instanceID: 0}
+    - Class: 70
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9678}
+    - Class: 114
+      Script: {instanceID: 9792}
+    - Class: 114
+      Script: {instanceID: 9844}
+    - Class: 114
+      Script: {instanceID: 9884}
+    - Class: 114
+      Script: {instanceID: 10014}
+    - Class: 114
+      Script: {instanceID: 10114}
+    - Class: 114
+      Script: {instanceID: 10212}
+    - Class: 114
+      Script: {instanceID: 10292}
+    - Class: 114
+      Script: {instanceID: 10326}
+    - Class: 114
+      Script: {instanceID: 10498}
+    - Class: 114
+      Script: {instanceID: 10620}
+    - Class: 114
+      Script: {instanceID: 10666}
+    - Class: 114
+      Script: {instanceID: 11092}
+    - Class: 114
+      Script: {instanceID: 11144}
+    - Class: 114
+      Script: {instanceID: 11270}
+    - Class: 114
+      Script: {instanceID: 11462}
+    - Class: 114
+      Script: {instanceID: 11518}
+    - Class: 114
+      Script: {instanceID: 11522}
+    - Class: 114
+      Script: {instanceID: 13984}
+    - Class: 114
+      Script: {instanceID: 37108}
+    - Class: 114
+      Script: {instanceID: 66166}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -189,19 +350,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9670}
+      Script: {instanceID: 9678}
     - Class: 114
-      Script: {instanceID: 9876}
+      Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 9932}
+      Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10292}
     - Class: 114
-      Script: {instanceID: 10654}
+      Script: {instanceID: 10666}
     - Class: 114
-      Script: {instanceID: 11132}
+      Script: {instanceID: 11144}
     - Class: 114
-      Script: {instanceID: 11506}
+      Script: {instanceID: 11518}
+    - Class: 114
+      Script: {instanceID: 66166}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -357,6 +520,12 @@ ScriptsOnlyBuild:
     className: ScoreKeeper
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChaseScript
+  - hash:
+      serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -381,7 +550,7 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
-      Hash: d903a2480bc5cd1580c4ecd5fdce98f9
+      Hash: 852395fa7a08fbd567f9bff253a30b29
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerHealth
@@ -399,7 +568,7 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
-      Hash: 934496c4fab3238f6a828bff5b4ec03b
+      Hash: a27615d5aeb2fb39fd04a74578c2ef28
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerMove
@@ -463,6 +632,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: be6a555a78e9a765f573af2ccb79b3d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CDBar
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -573,7 +748,7 @@ ScriptsOnlyBuild:
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
-      Hash: a5d25d38688700944ab4d78caa2bcb6e
+      Hash: 698deaf814539a242fb9bc99247af45a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: EnemyPatrol
@@ -597,7 +772,7 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: 57678b38c3e759b272e79ea90c8a5c8a
+      Hash: 2e762b0574f3bd712d276e823162a6ad
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ScoreMan
@@ -681,7 +856,7 @@ ScriptsOnlyBuild:
     className: StandaloneInputModule
   - hash:
       serializedVersion: 2
-      Hash: 41b57415e0eb126b3b73f47cea91705a
+      Hash: dcccf43bf074e641845627e60acfd8cd
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Projectile
@@ -715,9 +890,35 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpriteAlpha
+  - hash:
+      serializedVersion: 2
+      Hash: 96f48c5736deb6db79611a3f490c559f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: lvlcomp
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GOScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameQuit
   platform: 5
   scenePathNames:
   - Assets/Scenes/TrashBuddy_Level_00_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_Select_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_01_Alpha.unity
-  playerPath: D:/yodac/Documents/GitHub/DumpsterFireStudios_TrashBuddy/Builds/Build_05/DumpsterFireStudios_TrashBuddy.exe
+  - Assets/Scenes/TrashBuddy_Level_02_Alpha.unity
+  - Assets/Scenes/TrashBuddy_GameOver.unity
+  playerPath: G:/Users/Justine/Documents/UF/GameDev/TrashBuddy_Beta/DumpsterFireStudios_TrashBuddy.exe

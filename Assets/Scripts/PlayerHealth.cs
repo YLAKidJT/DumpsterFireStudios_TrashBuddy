@@ -11,13 +11,16 @@ public class PlayerHealth : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        lives = 3;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (lives <= 0)
+        {
+            SceneManager.LoadScene(4);
+        }
     }
 
     /* void OnCollisionEnter2D (Collision2D col)

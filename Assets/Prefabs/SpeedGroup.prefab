@@ -44,7 +44,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 16.334526, y: 0.3203621}
+  m_Offset: {x: -16.785805, y: 1.305047}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -55,7 +55,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 34.937386, y: 8.994843}
+  m_Size: {x: 34.11017, y: 7.0254726}
   m_EdgeRadius: 0
 --- !u!1 &1098977305429047711
 GameObject:
@@ -101,7 +101,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.46529293, y: 0.67905426}
+  m_Offset: {x: -0.46529293, y: 1.7394849}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -112,7 +112,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.5051823, y: 9.136002}
+  m_Size: {x: 1.5051823, y: 7.0151405}
   m_EdgeRadius: 0
 --- !u!1 &6064059179220837145
 GameObject:
@@ -348,7 +348,7 @@ Transform:
   m_GameObject: {fileID: 7904969127880581306}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.7427087, y: 1.3931062, z: 9.549594}
-  m_LocalScale: {x: 0.32513744, y: 0.32513744, z: 0.32513744}
+  m_LocalScale: {x: -0.3251374, y: 0.32513744, z: 0.32513744}
   m_Children:
   - {fileID: 1028195616819568586}
   - {fileID: 3372835467349110097}
@@ -417,7 +417,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.46803474, y: 0.095366}
+  m_Offset: {x: -0.46803474, y: 1.177083}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -428,7 +428,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.3353996, y: 9.13654}
+  m_Size: {x: 1.3353996, y: 6.9731064}
   m_EdgeRadius: 0
 --- !u!50 &7904969127880581304
 Rigidbody2D:
@@ -450,7 +450,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &7904969127880581305
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -465,8 +465,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0
   distance: 2
-  patrolSpeed: 3
-  chaseSpeed: 6
+  patrolSpeed: 5
+  chaseSpeed: 8
   recycleTime: 0
   groundDetection: {fileID: 7904969128825835279}
   enemyCol: {fileID: 0}
