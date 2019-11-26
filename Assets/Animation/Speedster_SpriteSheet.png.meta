@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: b47c651bb249e6f4a9b2a2a227c9175c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5110182392060114412
+    second: Speedster_SpriteSheet_0
+  - first:
+      213: 9215204938316431367
+    second: Speedster_SpriteSheet_1
+  - first:
+      213: 7855630823834073246
+    second: Speedster_SpriteSheet_2
+  - first:
+      213: -2994703874347595088
+    second: Speedster_SpriteSheet_3
+  - first:
+      213: 3059384225195470885
+    second: Speedster_SpriteSheet_4
+  - first:
+      213: 6976751045484240170
+    second: Speedster_SpriteSheet_5
+  - first:
+      213: -9111506159676414214
+    second: Speedster_SpriteSheet_6
+  - first:
+      213: 577404072557867380
+    second: Speedster_SpriteSheet_7
+  - first:
+      213: -6134845249549796051
+    second: Speedster_SpriteSheet_8
+  - first:
+      213: 4779993853449347784
+    second: Speedster_SpriteSheet_9
+  - first:
+      213: -3771918609062932240
+    second: Speedster_SpriteSheet_10
+  - first:
+      213: -2234102933067476110
+    second: Speedster_SpriteSheet_11
+  - first:
+      213: -1524724441276881666
+    second: Speedster_SpriteSheet_12
+  - first:
+      213: -4990270585961144766
+    second: Speedster_SpriteSheet_13
+  - first:
+      213: -6379783516806167988
+    second: Speedster_SpriteSheet_14
+  - first:
+      213: -1060630815520719785
+    second: Speedster_SpriteSheet_15
+  - first:
+      213: 5449886843212428334
+    second: Speedster_SpriteSheet_16
+  - first:
+      213: -4417318424963144704
+    second: Speedster_SpriteSheet_17
+  - first:
+      213: 6421560992285166506
+    second: Speedster_SpriteSheet_18
+  - first:
+      213: -3725648437048872206
+    second: Speedster_SpriteSheet_19
+  - first:
+      213: -6796767489669153869
+    second: Speedster_SpriteSheet_20
+  - first:
+      213: 4920672316618062958
+    second: Speedster_SpriteSheet_21
+  - first:
+      213: 7029552469749462123
+    second: Speedster_SpriteSheet_22
+  - first:
+      213: -1341670450634348418
+    second: Speedster_SpriteSheet_23
+  - first:
+      213: 2086603929805798683
+    second: Speedster_SpriteSheet_24
+  - first:
+      213: -4497575442175344926
+    second: Speedster_SpriteSheet_25
+  - first:
+      213: -2733709202197913371
+    second: Speedster_SpriteSheet_26
+  - first:
+      213: -7523352010262691668
+    second: Speedster_SpriteSheet_27
+  - first:
+      213: -3300232247705651552
+    second: Speedster_SpriteSheet_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382a8a8cd82424e46a6fd51d4d7ec9ed
+      internalID: -5110182392060114412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5400
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4b32be7992504c96dea483518b7d1
+      internalID: 9215204938316431367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5400
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea88af70a0462499b27e9ff12e12f3
+      internalID: 7855630823834073246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5400
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986d4e1a32ba4646858e17b9a98501c
+      internalID: -2994703874347595088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5400
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f4af5ca4ab69489c5f397fe9ffa3b
+      internalID: 3059384225195470885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04219b86e8701884fa1ac92150564077
+      internalID: 6976751045484240170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4320
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4542010e996af45bde75e06aa3e206
+      internalID: -9111506159676414214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4320
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3968bea426fa4a46adc23fbf1cb6cf4
+      internalID: 577404072557867380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4320
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ceb98b258f8ca47b62f9a383a2893e
+      internalID: -6134845249549796051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4320
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50307a38eaa5c749b6310965ca40ad2
+      internalID: 4779993853449347784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a9ebcd03758242baa03051a21bd14
+      internalID: -3771918609062932240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3240
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a1cd4dee5e2d418eb5def0f58661d
+      internalID: -2234102933067476110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3240
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb537a341432a41a1b43f14163d2ea
+      internalID: -1524724441276881666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3240
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1024a62ee3a8a489830437e0cb622e
+      internalID: -4990270585961144766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3240
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab1cfa0722ee6458c5ea773c5d9c3a
+      internalID: -6379783516806167988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb41569c089c31419c8066a210d36d8
+      internalID: -1060630815520719785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2160
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be67232f9da894eb4aa9a905b541bc
+      internalID: 5449886843212428334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2160
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa51dfb3a5ea8c44993a4a8327fd767e
+      internalID: -4417318424963144704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2160
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8091c3e47cb94b91dbcb8b9b8ef83
+      internalID: 6421560992285166506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2160
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ca270e6dfc1044a423dd41443d27d
+      internalID: -3725648437048872206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a664c0be9a1bd443a66d5b64b5e4b0e
+      internalID: -6796767489669153869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1080
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10940cba2c6c08a468c4a2a99df8d675
+      internalID: 4920672316618062958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1080
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab502657dac836e4092d71f0c25c4608
+      internalID: 7029552469749462123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1080
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419dd2288530bd4fab0da7c393ca2f3
+      internalID: -1341670450634348418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1080
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c613ff8bfce141646a776373a498d611
+      internalID: 2086603929805798683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2f0374f6ff024fb662da17b5a48fe
+      internalID: -4497575442175344926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2081c82bb7151d4c856a98baff864eb
+      internalID: -2733709202197913371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c4b5d643171f4981f82ff45bb8ecb
+      internalID: -7523352010262691668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speedster_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1200
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b0e52a4d4e4849848a1588a599253
+      internalID: -3300232247705651552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

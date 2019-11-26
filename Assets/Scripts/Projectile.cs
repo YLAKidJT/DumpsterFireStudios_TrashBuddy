@@ -9,6 +9,7 @@ public class Projectile : MonoBehaviour
     private float vx, vy;
     public Rigidbody2D rb;
     public float maxProjNum, curProjNum, timeDelay;
+    public bool onCool = false;
 
     // Start is called before the first frame update
     void Start()
@@ -29,7 +30,7 @@ public class Projectile : MonoBehaviour
         vx = Input.GetAxisRaw("Horizontal");
         vy = rb.velocity.y;
 
-        if ((Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.J)) && curProjNum < maxProjNum)
+        if ((Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.J)) && !onCool && curProjNum < maxProjNum)
         {
             curProjNum += 1;
             float randCheck = Random.Range(0.0f, 10.0f);
@@ -52,6 +53,9 @@ public class Projectile : MonoBehaviour
                 clone.GetComponent<Rigidbody2D>().velocity = transform.TransformDirection(vx + launchSpeed, (vy + launchSpeed) / 2, 0);
                 DestroyProjectile(clone);
             }
+
+            onCool = true;
+            StartCoroutine(ProjCD());
         }
     }
 
@@ -59,5 +63,11 @@ public class Projectile : MonoBehaviour
     {
         yield return new WaitForSeconds(timeDelay);
         curProjNum -= 1;
+    }
+
+    IEnumerator ProjCD()
+    {
+        yield return new WaitForSeconds(2.0f);
+        onCool = false;
     }
 }
