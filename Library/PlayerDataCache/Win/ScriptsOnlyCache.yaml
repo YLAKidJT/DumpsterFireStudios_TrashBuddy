@@ -27,14 +27,11 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -68,17 +65,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 10292}
+      Script: {instanceID: 10068}
     - Class: 114
-      Script: {instanceID: 10666}
+      Script: {instanceID: 10296}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 10670}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 43662}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 66166}
+      Script: {instanceID: 11526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -119,15 +116,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 10292}
+      Script: {instanceID: 10296}
     - Class: 114
-      Script: {instanceID: 10666}
+      Script: {instanceID: 10670}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 66166}
+      Script: {instanceID: 11526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -186,37 +183,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 10014}
+      Script: {instanceID: 10016}
     - Class: 114
-      Script: {instanceID: 10114}
+      Script: {instanceID: 10118}
     - Class: 114
-      Script: {instanceID: 10212}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10292}
+      Script: {instanceID: 10296}
     - Class: 114
-      Script: {instanceID: 10326}
+      Script: {instanceID: 10330}
     - Class: 114
-      Script: {instanceID: 10498}
+      Script: {instanceID: 10502}
     - Class: 114
-      Script: {instanceID: 10620}
+      Script: {instanceID: 10624}
     - Class: 114
-      Script: {instanceID: 10666}
+      Script: {instanceID: 10670}
     - Class: 114
-      Script: {instanceID: 11092}
+      Script: {instanceID: 10692}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 11098}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11462}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 11522}
+      Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 37108}
+      Script: {instanceID: 11526}
     - Class: 114
-      Script: {instanceID: 66166}
+      Script: {instanceID: 11530}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -279,39 +276,39 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 10014}
+      Script: {instanceID: 9942}
     - Class: 114
-      Script: {instanceID: 10114}
+      Script: {instanceID: 10016}
     - Class: 114
-      Script: {instanceID: 10212}
+      Script: {instanceID: 10118}
     - Class: 114
-      Script: {instanceID: 10292}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10326}
+      Script: {instanceID: 10296}
     - Class: 114
-      Script: {instanceID: 10498}
+      Script: {instanceID: 10330}
     - Class: 114
-      Script: {instanceID: 10620}
+      Script: {instanceID: 10502}
     - Class: 114
-      Script: {instanceID: 10666}
+      Script: {instanceID: 10624}
     - Class: 114
-      Script: {instanceID: 11092}
+      Script: {instanceID: 10670}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 10692}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11098}
     - Class: 114
-      Script: {instanceID: 11462}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11276}
     - Class: 114
-      Script: {instanceID: 11522}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 13984}
+      Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 37108}
+      Script: {instanceID: 11526}
     - Class: 114
-      Script: {instanceID: 66166}
+      Script: {instanceID: 11530}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -356,15 +353,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9940}
     - Class: 114
-      Script: {instanceID: 10292}
+      Script: {instanceID: 10296}
     - Class: 114
-      Script: {instanceID: 10666}
+      Script: {instanceID: 10670}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11392}
     - Class: 114
-      Script: {instanceID: 66166}
+      Script: {instanceID: 11526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -490,6 +487,12 @@ ScriptsOnlyBuild:
     className: ButtonSelect
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpriteAlpha
+  - hash:
+      serializedVersion: 2
       Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -524,6 +527,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ChaseScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GOScreen
   - hash:
       serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
@@ -682,6 +691,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 96f48c5736deb6db79611a3f490c559f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: lvlcomp
+  - hash:
+      serializedVersion: 2
       Hash: 5ad4aa237d47ac2bab17bacb672edf7a
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -790,6 +805,12 @@ ScriptsOnlyBuild:
     className: TMP_StyleSheet
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameQuit
+  - hash:
+      serializedVersion: 2
       Hash: df434544c9f7b33d1cc7e635b180d279
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -890,30 +911,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SpriteAlpha
-  - hash:
-      serializedVersion: 2
-      Hash: 96f48c5736deb6db79611a3f490c559f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: lvlcomp
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GOScreen
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameQuit
   platform: 5
   scenePathNames:
   - Assets/Scenes/TrashBuddy_Level_00_Alpha.unity
@@ -921,4 +918,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/TrashBuddy_Level_01_Alpha.unity
   - Assets/Scenes/TrashBuddy_Level_02_Alpha.unity
   - Assets/Scenes/TrashBuddy_GameOver.unity
-  playerPath: G:/Users/Justine/Documents/UF/GameDev/TrashBuddy_Beta/DumpsterFireStudios_TrashBuddy.exe
+  playerPath: D:/yodac/Documents/GitHub/DumpsterFireStudios_TrashBuddy/Builds/DumpsterFireStudios_TrashBuddy_FinalBuild/DumpsterFireStudios_TrashBuddy.exe
