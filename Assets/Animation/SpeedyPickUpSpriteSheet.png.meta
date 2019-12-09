@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 4f661da59a1d52544926f7c1669c3b22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7017392463731329120
+    second: SpeedyPickUpSpriteSheet_0
+  - first:
+      213: -4884145128715304346
+    second: SpeedyPickUpSpriteSheet_1
+  - first:
+      213: -3705332451280956483
+    second: SpeedyPickUpSpriteSheet_2
+  - first:
+      213: 7555307397325514706
+    second: SpeedyPickUpSpriteSheet_3
+  - first:
+      213: 4425071155049012691
+    second: SpeedyPickUpSpriteSheet_4
+  - first:
+      213: -336484411029118386
+    second: SpeedyPickUpSpriteSheet_5
+  - first:
+      213: 6931487401126084873
+    second: SpeedyPickUpSpriteSheet_6
+  - first:
+      213: -5333631801609549789
+    second: SpeedyPickUpSpriteSheet_7
+  - first:
+      213: 3530388583517688149
+    second: SpeedyPickUpSpriteSheet_8
+  - first:
+      213: -8980309708492294595
+    second: SpeedyPickUpSpriteSheet_9
+  - first:
+      213: -9185154638647518695
+    second: SpeedyPickUpSpriteSheet_10
+  - first:
+      213: 74382335736422395
+    second: SpeedyPickUpSpriteSheet_11
+  - first:
+      213: 1187556506704662563
+    second: SpeedyPickUpSpriteSheet_12
+  - first:
+      213: -9057717581611485340
+    second: SpeedyPickUpSpriteSheet_13
+  - first:
+      213: 3932904338903018083
+    second: SpeedyPickUpSpriteSheet_14
+  - first:
+      213: -534265470741254840
+    second: SpeedyPickUpSpriteSheet_15
+  - first:
+      213: -9107921814357859753
+    second: SpeedyPickUpSpriteSheet_16
+  - first:
+      213: 1303556421974980835
+    second: SpeedyPickUpSpriteSheet_17
+  - first:
+      213: 4973177555557291282
+    second: SpeedyPickUpSpriteSheet_18
+  - first:
+      213: 4019692064820379954
+    second: SpeedyPickUpSpriteSheet_19
+  - first:
+      213: 719210707086293631
+    second: SpeedyPickUpSpriteSheet_20
+  - first:
+      213: 6553754286512715324
+    second: SpeedyPickUpSpriteSheet_21
+  - first:
+      213: 190603478827946908
+    second: SpeedyPickUpSpriteSheet_22
+  - first:
+      213: 4031034550082494326
+    second: SpeedyPickUpSpriteSheet_23
+  - first:
+      213: -1101533242142379903
+    second: SpeedyPickUpSpriteSheet_24
+  - first:
+      213: 2436968191289911634
+    second: SpeedyPickUpSpriteSheet_25
+  - first:
+      213: -3751987375686875346
+    second: SpeedyPickUpSpriteSheet_26
+  - first:
+      213: 9139660863284233856
+    second: SpeedyPickUpSpriteSheet_27
+  - first:
+      213: 8264119556444242967
+    second: SpeedyPickUpSpriteSheet_28
+  - first:
+      213: -5033436930468904302
+    second: SpeedyPickUpSpriteSheet_29
+  - first:
+      213: -8786734338601210033
+    second: SpeedyPickUpSpriteSheet_30
+  - first:
+      213: 368682340806746986
+    second: SpeedyPickUpSpriteSheet_31
+  - first:
+      213: 2759856582821669239
+    second: SpeedyPickUpSpriteSheet_32
+  - first:
+      213: -7065535012389079218
+    second: SpeedyPickUpSpriteSheet_33
+  - first:
+      213: 6285988491178124450
+    second: SpeedyPickUpSpriteSheet_34
+  - first:
+      213: 4665654394095357263
+    second: SpeedyPickUpSpriteSheet_35
+  - first:
+      213: 698763325122475028
+    second: SpeedyPickUpSpriteSheet_36
+  - first:
+      213: 2075141338043064858
+    second: SpeedyPickUpSpriteSheet_37
+  - first:
+      213: 5949819352618171236
+    second: SpeedyPickUpSpriteSheet_38
+  - first:
+      213: -3976872862362085281
+    second: SpeedyPickUpSpriteSheet_39
+  - first:
+      213: -1819623585827473727
+    second: SpeedyPickUpSpriteSheet_40
+  - first:
+      213: 9152905590116736670
+    second: SpeedyPickUpSpriteSheet_41
+  - first:
+      213: -7058819937659685225
+    second: SpeedyPickUpSpriteSheet_42
+  - first:
+      213: 7453744517357209242
+    second: SpeedyPickUpSpriteSheet_43
+  - first:
+      213: 577530385004414438
+    second: SpeedyPickUpSpriteSheet_44
+  - first:
+      213: -829949011378173113
+    second: SpeedyPickUpSpriteSheet_45
+  - first:
+      213: 3052854829339245511
+    second: SpeedyPickUpSpriteSheet_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 371
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01389c88dade73745bd557c679dc15e5
+      internalID: -7017392463731329120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 4
+        width: 352
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aedaa35d7902b4c913c1f35d9a5e13
+      internalID: -4884145128715304346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 281
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ba4da121a67c4fb28d0e41f316948
+      internalID: -3705332451280956483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 4
+        width: 328
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b7f4aafefd7e439a1fa39d72fba36
+      internalID: 7555307397325514706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 4
+        width: 390
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26048d9a53033e74493e5f2ca884b6fe
+      internalID: 4425071155049012691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 0
+        width: 406
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1585ce8d85602f8418ad7388c5e6eab1
+      internalID: -336484411029118386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 0
+        width: 547
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837b3388fdf66284c8f3d7957d7f74ba
+      internalID: 6931487401126084873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 0
+        width: 680
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5131e6339fd6fc43b1b6fcb351f07ea
+      internalID: -5333631801609549789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 0
+        width: 703
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae452c927afed9a4abf94ffdbb9a8ad1
+      internalID: 3530388583517688149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 0
+        width: 624
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2eee847715b084db383379519eb569
+      internalID: -8980309708492294595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 0
+        width: 695
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b6ff08e16be14391590ce16d1b76a
+      internalID: -9185154638647518695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 27
+        width: 649
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba68e61d6380c33438ddc06649539f1c
+      internalID: 74382335736422395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 12
+        width: 680
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215460993df6dc34cb92eb23df47f6aa
+      internalID: 1187556506704662563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 0
+        width: 719
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033003e61764be94388ffad2bf7ac85f
+      internalID: -9057717581611485340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 7581
+        y: 0
+        width: 672
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8221a62c74fc6314abb21dbc8c3c8eac
+      internalID: 3932904338903018083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 8285
+        y: 0
+        width: 671
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb3459617fa1e408253518cb01b325
+      internalID: -534265470741254840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 8964
+        y: 0
+        width: 711
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d3b7256656c147ae44e8095d8977f
+      internalID: -9107921814357859753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 9675
+        y: 0
+        width: 672
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd252cefa37fdc644b96478d13d9b189
+      internalID: 1303556421974980835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 10386
+        y: 0
+        width: 672
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c9d41e8a7a4d940a47b24dff8b0600
+      internalID: 4973177555557291282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 11112
+        y: 0
+        width: 696
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4de1243aaf4de42ba8aa7be90ba8b8
+      internalID: 4019692064820379954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 11823
+        y: 0
+        width: 688
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a39522594edae44a9653270a18f3f8
+      internalID: 719210707086293631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 12526
+        y: 0
+        width: 680
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945772a51aa092f4a82331d7bc611a1d
+      internalID: 6553754286512715324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 13214
+        y: 0
+        width: 617
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8af73718b2da8419ccd4da37863dec
+      internalID: 190603478827946908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 13839
+        y: 0
+        width: 656
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72638c7e88dd384bb856eb8f3a13793
+      internalID: 4031034550082494326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 14510
+        y: 0
+        width: 696
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2eba3de02665846967d152f751e4be
+      internalID: -1101533242142379903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 15214
+        y: 0
+        width: 671
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e62e7557e4da44af72ec8f74e91a1
+      internalID: 2436968191289911634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 15893
+        y: 0
+        width: 688
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c69359dc3fd04bb7c8104b7a38390
+      internalID: -3751987375686875346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 16581
+        y: 0
+        width: 679
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e077b1573ff30fc4f930d4a297e17386
+      internalID: 9139660863284233856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 17284
+        y: 0
+        width: 664
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b47c2ac9d1a9744ad3dba1a11ead3a
+      internalID: 8264119556444242967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 17963
+        y: 0
+        width: 664
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe680ded4ab77647ae5ef6b7db53d05
+      internalID: -5033436930468904302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 18674
+        y: 0
+        width: 672
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3106fcac741f28f4d8cd95fcee033f60
+      internalID: -8786734338601210033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 19377
+        y: 0
+        width: 672
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddea5bb01489754e8fff451e0fb69f0
+      internalID: 368682340806746986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 20065
+        y: 0
+        width: 687
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f662b548f8ae42b063190bfe8822d
+      internalID: 2759856582821669239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 20791
+        y: 0
+        width: 664
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924f50cb9c19954e9262d8c370b7566
+      internalID: -7065535012389079218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 21471
+        y: 0
+        width: 687
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac3d8cd4a8c9d49aa8ce272d0ea2cf
+      internalID: 6285988491178124450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 22213
+        y: 0
+        width: 679
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68628fa2bfd404d948041f2ebb3912
+      internalID: 4665654394095357263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 22994
+        y: 0
+        width: 664
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b773f97bf42042a3e0ac34502d2b1
+      internalID: 698763325122475028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 23697
+        y: 0
+        width: 641
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83862ddbf5b8742bd8da6aede4b4ea
+      internalID: 2075141338043064858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 24447
+        y: 0
+        width: 625
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2073c407585b4392234763aaa9fcf
+      internalID: 5949819352618171236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 25111
+        y: 0
+        width: 594
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc2028bee81aeb49b0bee61f9ee55ce
+      internalID: -3976872862362085281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 25767
+        y: 0
+        width: 477
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef606119c1ed6224f86779bad85cbcec
+      internalID: -1819623585827473727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 26283
+        y: 0
+        width: 429
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6a0b226cbc7a748a020717cfe59e87
+      internalID: 9152905590116736670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 26775
+        y: 0
+        width: 383
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da2873be4f142458ab81728ce052cd
+      internalID: -7058819937659685225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 27228
+        y: 0
+        width: 312
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a713a9dc28dac94e87ef83c2820fac8
+      internalID: 7453744517357209242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 27634
+        y: 0
+        width: 297
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736cb10c63a2c304982574fa8436a359
+      internalID: 577530385004414438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 27994
+        y: 0
+        width: 312
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0457436c16ea64397575b35c55de31
+      internalID: -829949011378173113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyPickUpSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 28415
+        y: 0
+        width: 305
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa4ce0735fbb834da2e6ba0eecd7312
+      internalID: 3052854829339245511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

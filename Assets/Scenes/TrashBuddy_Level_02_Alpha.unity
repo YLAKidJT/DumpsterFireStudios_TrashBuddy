@@ -1345,7 +1345,7 @@ SpriteRenderer:
   m_Size: {x: 21, y: 15.001465}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &165613169
@@ -10558,7 +10558,7 @@ SpriteRenderer:
   m_Size: {x: 21, y: 15.001465}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1950659215
@@ -11718,6 +11718,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Flag
       objectReference: {fileID: 0}
+    - target: {fileID: 2263445768641837797, guid: 98ce0e1852f80dd45beeddb0f8ee8c8a,
+        type: 3}
+      propertyPath: lvlCompUI
+      value: 
+      objectReference: {fileID: 1611457238}
     - target: {fileID: 1519332441698129889, guid: 98ce0e1852f80dd45beeddb0f8ee8c8a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11773,10 +11778,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2263445768641837797, guid: 98ce0e1852f80dd45beeddb0f8ee8c8a,
-        type: 3}
-      propertyPath: lvlCompUI
-      value: 
-      objectReference: {fileID: 1611457238}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98ce0e1852f80dd45beeddb0f8ee8c8a, type: 3}
